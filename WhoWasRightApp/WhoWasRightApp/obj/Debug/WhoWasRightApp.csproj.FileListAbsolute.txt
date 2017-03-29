@@ -1,0 +1,17 @@
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\WhoWasRightApp.dll
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\WhoWasRightApp.pdb
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Core.dll
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Core.xml
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\obj\Debug\WhoWasRightApp.csprojResolveAssemblyReference.cache
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\obj\Debug\WhoWasRightApp.MainPage.xaml.g.cs
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\obj\Debug\WhoWasRightApp.App.xaml.g.cs
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\obj\Debug\WhoWasRightApp.dll
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\obj\Debug\WhoWasRightApp.pdb
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\obj\Debug\WhoWasRightApp.dll.mdb
+E:\Mason\Coding\WhoWasRight\WhoWasRight\WhoWasRightApp\WhoWasRightApp\bin\Debug\WhoWasRightApp.dll.mdb
